@@ -13,8 +13,6 @@ Multi facebook Cracking With Random Numbercloning
       FACEBOON RANDOM GMAIL ID CLONER
 </p>
 
-![20200808_160757](https://github.com/James404-cyber/Multi-Crack/blob/mai10920_144328.png)
-
 
 ## <b>installation</b>
 
