@@ -19,7 +19,7 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ pip2 install bs4
 $ pkg install git
-$ git clone https://github.com/James404-cyber/Email-Cloning.git
+$ git clone https://github.com/DEVILNIHAD/Email-Cloning.git
 $ cd Email-Cloning
 $ python2 Emailcloning.py
 $ Pass:  Email
