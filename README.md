@@ -32,4 +32,4 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
 Pass : (Email)</br>
 # Copyright 
- [![Github](https://img.shields.io/badge/github-JAMES-blue?style=flat-square&logo=facebook)](https://github.com/James404-cyber/Email-Cloning)</br>
+ [![Github](https://img.shields.io/badge/github-JAMES-blue?style=flat-square&logo=github)](https://github.com/James404-cyber/Email-Cloning)</br>
